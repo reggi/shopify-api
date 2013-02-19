@@ -1,0 +1,13 @@
+{
+  "name": "shopify-api",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./lib/index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "underscore": "~1.4.3",
+    "runner": "git://github.com/reggi/runner.git"
+  }
+}
