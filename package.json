@@ -1,6 +1,6 @@
 {
   "name": "shopify-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "main": "./lib/index.js",
   "scripts": {
@@ -9,5 +9,12 @@
   "dependencies": {
     "underscore": "~1.4.3",
     "runner": "git://github.com/reggi/runner.git"
-  }
+  },
+  "readme": "# Shopify-API\n\nTo reinstall it:\n\n    npm uninstall shopify-api && npm install git+ssh://git@github.com/incubaker/shopify-api.git\n\nTo install it:\n\n    npm install git+ssh://git@github.com/incubaker/shopify-api.git    ",
+  "_id": "shopify-api@0.0.1",
+  "description": "To reinstall it:",
+  "dist": {
+    "shasum": "d5d683b315edca1c2f1a99fc1ab6ebf91b6d1026"
+  },
+  "_from": "git+ssh://git@github.com/incubaker/shopify-api.git"
 }
