@@ -11,10 +11,11 @@
     "runner": "git://github.com/reggi/runner.git"
   },
   "readme": "# Shopify-API\n\nTo reinstall it:\n\n    npm uninstall shopify-api && npm install git+ssh://git@github.com/incubaker/shopify-api.git\n\nTo install it:\n\n    npm install git+ssh://git@github.com/incubaker/shopify-api.git    ",
-  "_id": "shopify-api@0.0.1",
+  "_id": "shopify-api@0.0.2",
   "description": "To reinstall it:",
   "dist": {
-    "shasum": "d5d683b315edca1c2f1a99fc1ab6ebf91b6d1026"
+    "shasum": "0ca4d67e6ef53541f46ca8113c05b9aefdc401b7"
   },
-  "_from": "git+ssh://git@github.com/incubaker/shopify-api.git"
+  "_from": "git+ssh://git@github.com/incubaker/shopify-api.git",
+  "_resolved": "git+ssh://git@github.com/incubaker/shopify-api.git#76d628bf42d621873e6c2767dba234ba1f8e0be7"
 }
